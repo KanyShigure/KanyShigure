@@ -1,8 +1,11 @@
-## Hi there 👋
+### Heya, Im Shigure, just a poeple like everyone
+嗨，我是神奈时雨，只是一届凡夫俗子
+### KanyShigure means forever
+我始终如一
+
 
 <!--
 **KanyShigure/KanyShigure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
